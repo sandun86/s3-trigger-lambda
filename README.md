@@ -1,8 +1,8 @@
-### Execute Lambda Functions on S3 Event Trigger
+## Execute Lambda Functions on S3 Event Trigger
 
 We can trigger AWS Lambda on S3 when a file is uploaded into the S3 bucket. Here you can find a solution that is built by NodeJs Typescript.
 
-## Used tech stacks
+### Used tech stacks
 1. Terraform (Lambda configurations, s3 events, policies)
 2. AWS Lambda with NodeJs with typescript
 3. Unit Testing - Jest
