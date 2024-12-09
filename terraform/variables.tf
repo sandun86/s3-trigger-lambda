@@ -5,7 +5,7 @@ variable "environment" {
 
 variable "project_name" {
   type    = string
-  default = "habitto-money"
+  default = "s3-trigger"
 }
 
 variable "s3_trigger_csv" {
